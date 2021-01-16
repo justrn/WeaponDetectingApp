@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weapon Detecting App</string>
+    <string name="weapon_detection">Weapon Detection</string>
+    <string name="add_a_camera">Add A Camera</string>
+    <string name="camera_selection">Camera Selection</string>
+    <string name="todo">TODO</string>
+    <string name="view_cameras">View Cameras</string>
+</resources>
